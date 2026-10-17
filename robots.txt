@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-210a8428f2.yogobuy.cn/sitemap.xml
